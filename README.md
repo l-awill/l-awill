@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align='center'><img src="https://media.giphy.com/media/Ve054RvEOz20Hl1ulw/giphy.gif" width=30px></img> Hi, I'm Lawrence [He/His/Him] !</h1>
 
 <!--
 **l-awill/l-awill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Reach Out to Me!
+📮 Email: [lawrence.d.williams.0@gmail.com](mailto:lawrence.d.williams.0@gmail.com)<br/>
+💼 LinkedIn: [in/lwilliams23](https://www.linkedin.com/in/lwilliams23/)<br/>
+💻 Personal Website: [lawrencewilliams.info](https://www.lawrencewilliams.info/)
