@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ## Reach Out to Me!
 📮 Email: [lawrence.d.williams.0@gmail.com](mailto:lawrence.d.williams.0@gmail.com)<br/>
 💼 LinkedIn: [in/lwilliams23](https://www.linkedin.com/in/lwilliams23/)<br/>
-💻 Personal Website: [lawrencewilliams.info](https://www.lawrencewilliams.info/)
+💻 Personal Website [WIP]: [lawrencewilliams.info](https://www.lawrencewilliams.info/)
